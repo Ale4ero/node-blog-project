@@ -2,9 +2,9 @@
 In this project I created a Blog page utilizing Node.js and MongoDB.
 
 ## To Use
-In terminal use command:
+1. In terminal use command:
 ``` node app ```
-In brower go to:
+2. In brower go to:
 ```
  localhost:3000
  ```
