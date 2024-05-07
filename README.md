@@ -1,6 +1,14 @@
 # Blog Page using Node.js
 In this project I created a Blog page utilizing Node.js and MongoDB.
 
+## To Use
+In terminal use command:
+``` node app ```
+In brower go to:
+```
+ localhost:3000
+ ```
+
 ## Site Features 
 This simple Blog page website allows users to post, delete, and view blogs.
 
